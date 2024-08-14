@@ -1,2 +1,4 @@
 /node_modules
 .env
+/laboratory-10/node_modules
+/laboratory-10/.next
